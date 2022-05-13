@@ -1,0 +1,24 @@
+.containerMenu {
+    border: 2px solid rgb(189, 189, 189);
+    width: 90%;
+    max-width: 700px;
+    padding: 40px 20px;
+    margin: auto;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.containerOrder{
+    border: 2px solid rgb(189, 189, 189);
+    width: 90%;
+    max-width: 700px;
+    padding: 40px 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}

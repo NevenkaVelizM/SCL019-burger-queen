@@ -1,0 +1,28 @@
+.containerMenuBtn {
+    display: flex;
+    width: 90%;
+    max-width: 700px;
+    justify-content: center;
+    margin: auto;
+    padding: 60px 20px;
+    align-items: center;
+   
+}
+
+.btnMenu {
+    width: 220px;
+    height: 45px;
+    border-radius: 8px;
+    font-size: 20px; 
+    color: green;
+    border-color: white;
+}
+
+.btnMenu:hover {
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+
+
+

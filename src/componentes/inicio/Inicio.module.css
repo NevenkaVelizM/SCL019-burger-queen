@@ -1,0 +1,24 @@
+.containerInicio {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+
+.logo {
+    font-size: 60px;
+    padding-top: 115px;
+}
+
+.containerButtons {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+} 
+
+.btnInicio {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(55, 163, 55);
+    border-radius: 6px;
+}

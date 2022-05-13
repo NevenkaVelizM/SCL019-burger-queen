@@ -1,0 +1,100 @@
+[
+    {
+      "id": "1",
+      "name": "Café Americano",
+      "type": "DESAYUNOS",
+      "submenu": "",
+      "price": "2000"
+    },
+    {
+      "id": "2",
+      "name": "Café con Leche",
+      "type": "DESAYUNOS",
+      "submenu": "",
+      "price": "2500"
+    
+    },
+    {
+      "id": "3",
+      "name": "Sandwich de J&Q",
+      "type": "DESAYUNOS",
+      "submenu": "",
+      "price": "3000"
+    },
+    {
+      "id": "4",
+      "name": "Jugo de Frutas",
+      "type": "DESAYUNOS",
+      "submenu": "",
+      "price": "2500"
+      
+    },
+    {
+      "id": "5",
+      "name": "Hamb. Simple",
+      "type": "HAMBURGUESAS",
+      "submenu": "Burger",
+      "price": "5000",
+      "protein": ["Carne", "Pollo", "Vegetariana"],
+      "extras": {
+        "HUEVO": "500",
+        "QUESO": "500"
+      }
+  
+    },
+    {
+      "id": "6",
+      "name": "Hamb. Doble",
+      "type": "HAMBURGUESAS",
+      "submenu": "Burger",
+      "price": "6500",
+      "protein": ["Carne", "Pollo", "Vegetariana"],
+      "extras": {
+        "HUEVO": "500",
+        "QUESO": "500"
+      }
+  
+    },
+    {
+      "id": "7",
+      "name": "Papas Fritas",
+      "type": "HAMBURGUESAS",
+      "submenu": "Acompañamientos",
+      "price": "2000"
+    },
+    {
+      "id": "8",
+      "name": "Aros de Cebolla",
+      "type": "HAMBURGUESAS",
+      "submenu": "Acompañamientos",
+      "price": "2000"
+    },
+    {
+      "id": "9",
+      "name": "Agua 500ml",
+      "type": "BEBIDAS",
+      "submenu": "",
+      "price": "1000"
+    },
+    {
+      "id": "10",
+      "name": "Agua 750ml",
+      "type": "BEBIDAS",
+      "submenu": "",
+      "price": "1500"
+    },
+    {
+      "id": "11",
+      "name": "Gaseosa 500ml",
+      "type": "BEBIDAS",
+      "submenu": "",
+      "price": "1500"
+    },
+    {
+      "id": "12",
+      "name": "Gaseosa 750ml",
+      "type": "BEBIDAS",
+      "submenu": "",
+      "price": "2000"
+    }
+  ]
